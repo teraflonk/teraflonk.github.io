@@ -1,0 +1,90 @@
+body {
+    background-color: blanchedalmond;
+    color: black;
+    font: 16px "consolas";
+    font-weight: bold;
+}
+
+#page {
+    text-align: center;
+    background-color: white;
+    width: 800px;
+    min-height: 830px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    
+    
+}
+
+#Linkbody {
+   align-items: center;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    
+    
+}
+
+a {
+    color: saddlebrown; text-decoration: none;
+}
+
+a:visited {
+    color: saddlebrown;
+}
+
+a:hover {
+    color: darkorange;
+}
+
+
+
+ol{
+    display: inline-block;
+    list-style:none;
+    border-left:2px solid;
+    border-left-color: gray;
+    text-align: left;
+    padding-left: 10px;
+
+    
+ }
+
+ol li{
+    margin: 15px
+}
+
+#teraflonkheader {
+    width: 60%;
+    height: auto;
+    padding-top: 20px;
+}
+
+#terakitty {
+    width: auto;
+    height: 75px;
+    padding-top: 60px;
+    padding-bottom: 0px;
+}
+
+#quote {
+    font: 12px "lucida sans unicode";
+    font-style: italic;
+    padding-bottom: 40px;
+}
+
+#updatebox {
+    height: 100px;
+    width: 490px;
+    border: 2px solid;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    text-align: left;
+    padding-left: 20px;
+    margin-left: 18%;
+    margin-right:auto;
+    font: 20px "consolas"; 
+    
+    
+}

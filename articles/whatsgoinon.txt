@@ -1,0 +1,20 @@
+=============================
+04/03/2018 - What's goin' on?
+=============================
+
+I've been telling myself for a year now to make a website that'll do everything I need (outside of various snippets of social media). Spreading your identity out over a myriad of separate websites is not only tiresome, but super impractical. Primarily, though, the idea sprung from having a place to host my Copy 'n Paste Covers that was... Well - *mine*. And once ye do one thing, it sets the ball rolling for everything else. You know how it is.
+
+So. Here it is. The Jess-site, site4roadregu, teraflonk, etc etc. No longer am I limited by profile sections that only give you *one space* for a link. No more! 
+
+In this mumbling, I just wanna outline what I've got planned for this here teraflonk.github.io.
+
+- Implementation of javascript and js-related stuffs to do randomised quote cycling from a plain text file, as well as to provide a simple player for the audio I host.
+- This also potentially includes displaying these articles in the format of the rest of the site; however, I'm still wrestling with the idea because writing all this stuff in a  .txt file with no syntax crappery to deal with is so much nicer (and easier to organise)!
+- Cats.
+- Transferring images from external hosting sites to the directory on github.
+- A single line on the home page displaying my last.fm top track of the week. As I require an API key to get access to the raw stuff myself, I'll probably be using an "external" RSS feed and then I'll take it from there. 
+- All of the above hasn't happened already because I'm too lazy. I really just wanted to build the bones before I added the meat.
+- It will happen sometime in the future.
+- I promise.
+
+And that's about it! If you find any problems with the site, feel free to get in contact with me through the available channels (head over to the 'Links & Social Media' page, dude).
