@@ -1,0 +1,62 @@
+body {
+    background-color: blanchedalmond;
+    color: black;
+    font: 16px "consolas";
+    font-weight: bold;
+}
+
+#page {
+    text-align: center;
+    background-color: white;
+    width: 800px;
+    min-height: 830px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    
+    
+}
+
+#teraflonkheader {
+    width: 60%;
+    height: auto;
+    padding-top: 20px;
+    
+}
+
+#terakitty {
+    width: auto;
+    height: 75px;
+    padding-top: 60px;
+    padding-bottom: 0px;
+}
+
+#quote {
+    font: 12px "lucida sans unicode";
+    font-style: italic;
+    padding-bottom: 40px;
+}
+
+a {
+    color: saddlebrown; text-decoration: none;
+}
+
+a:visited {
+    color: saddlebrown;
+}
+
+a:hover {
+    color: darkorange;
+}
+
+#flesh {
+    text-align: left; 
+    padding-left: 80px; 
+    padding-right: 80px;
+}
+
+ol {
+    list-style: square;
+    text-align: left;
+    }
