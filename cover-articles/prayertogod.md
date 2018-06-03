@@ -1,3 +1,7 @@
+---
+title: 'Prayer to God' - Copy 'n' Paste Covers
+---
+
 # Copy 'n' Paste Covers
 
 ## 'Prayer To God' - Shellac
