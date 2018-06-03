@@ -12,7 +12,7 @@ Alright alright alriiiiighttt! First entry to the series. Here it be:
 
 I like Shellac. I like Steve Albini. I also like this song, but it's not something I'd play to the family. It wasn't my intention to pick one of the edgiest things in my library, I swear. I actually picked it because I wanted something pretty simple to cover to get the series going (I need any motivation I can get, folks), and according to an interview with Albini the song...
 
-* "examines the different facets of impotent male rage. The greater point is that his presumption of a natural order, having been upended by what are after all totally normal turns of events, warrants not just death as revenge but a righteous death, administered by a loving god who agrees with his perspective..." blah blah *
+*"examines the different facets of impotent male rage. The greater point is that his presumption of a natural order, having been upended by what are after all totally normal turns of events, warrants not just death as revenge but a righteous death, administered by a loving god who agrees with his perspective..." blah blah*
 
 Sure, buddy. Whatever you say.
 
