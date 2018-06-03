@@ -1,4 +1,4 @@
-<p> ---
+---
 title: 'Prayer to God' - Copy 'n' Paste Covers
 ---
 
@@ -26,6 +26,6 @@ As for the bass, I didn't really capture the tone either, but I'm sure that woul
 
 The second hardest thing was the vocals. This isn't really a surprise seeing as I'm not exactly a great singer to start with. The vocal delivery on 'Prayer to God' is a sticky one - slightly out of tune, sorta wibbly, a lot of aggression towards the end, and makes good use of an American accent. I'm not a phoney so I try not to fake accents when I can. Also, I cannot sing aggressively. I just can't. I'm too soft spoken and girly. I took this one week "learn how to scream" vocal course thing and I came out sounding like an 8-year-old girl with a chest infection. What you hear really is my best attempt to sound like "man, I really, like, don't give a fuck whaaaaaat".
 
-The drums - my least favourite drum sample library, but the only one that sounded close to those in the song. Woulda been better if I could get that snare to "snap" more, but it's not like I can physically whack MIDI. I mean, I could. But I don't. And the velocity was set to 100% for the snare anyway. </p>
+The drums - my least favourite drum sample library, but the only one that sounded close to those in the song. Woulda been better if I could get that snare to "snap" more, but it's not like I can physically whack MIDI. I mean, I could. But I don't. And the velocity was set to 100% for the snare anyway.
 
 So - friends - that's Copy 'N' Paste Cover number ONE. I hope you liked it. Keep your eyes pickled and peeled for further entries to the series. That should definitely happen.
