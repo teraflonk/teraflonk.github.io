@@ -1,3 +1,4 @@
-
-
-theme: jekyll-theme-time-machine
+#Jekyll Configuration
+name: teraflonk.github.io
+description: It's a teraflonk!
+markdown: kramdown
