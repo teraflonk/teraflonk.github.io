@@ -1,0 +1,5 @@
+# The Wolf and the Kids
+
+## by Jessica P, age 5
+
+Ones upon a time ther were a mummy goat and three kids. One day mummy goat was going to the shops. And mummy goat all said to the kids im going shoppig now. Now dont let any stanegers in OK mummy said the kids. So mummy went shopping. One of the kids said I love playing. And a nother one said do we have to play all day Yeh Yeh do we hav to, And then afu hours the wolf came to the house. The kids looked under the door Oh no its the wolf. so the wolf went home. But when the wolf came back with his feet paintid and standid on his tipitose. so the kids fort it was ther mummy. The wolf tapet on the door and the kids opend the door and the wolf dashd in aaaaa got you got you got you yes got them all. Mummy goat was wathing from the window and then mummy goat dashd in and got the kids and mummy goat batid the wolf. And the wolf was never to be seen agian.

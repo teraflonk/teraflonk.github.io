@@ -9,34 +9,19 @@ body {
     text-align: center;
     background-color: white;
     width: 800px;
-    min-height: 830px;
+    min-height: 655px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
     
-    
 }
 
-#teraflonkheader {
-    width: 60%;
-    height: auto;
-    padding-top: 20px;
-    
+#padder {
+    padding-bottom: 70px;
 }
 
-#terakitty {
-    width: auto;
-    height: 75px;
-    padding-top: 60px;
-    padding-bottom: 0px;
-}
 
-#quote {
-    font: 12px "lucida sans unicode";
-    font-style: italic;
-    padding-bottom: 40px;
-}
 
 a {
     color: saddlebrown; text-decoration: none;
@@ -50,6 +35,19 @@ a:hover {
     color: darkorange;
 }
 
+#teraflonkheader {
+    width: 60%;
+    height: auto;
+    padding-top: 20px;
+}
+
+#quote {
+    font: 12px "lucida sans unicode";
+    font-style: italic;
+    text-align: center;
+}
+
+
 #flesh {
     text-align: left; 
     padding-left: 80px; 
@@ -59,9 +57,4 @@ a:hover {
 ol {
     list-style: square;
     text-align: left;
-    }
-
-.footer {
-    position: relative;
-    top: 29px;
 }

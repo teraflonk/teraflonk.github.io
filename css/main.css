@@ -9,22 +9,19 @@ body {
     text-align: center;
     background-color: white;
     width: 800px;
-    min-height: 830px;
+    min-height: 655px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: auto;
     
-    
 }
 
-#Linkbody {
-   align-items: center;
-    padding-bottom: 30px;
-    padding-top: 20px;
-    
-    
+#padder {
+    padding-bottom: 70px;
 }
+
+
 
 a {
     color: saddlebrown; text-decoration: none;
@@ -38,9 +35,26 @@ a:hover {
     color: darkorange;
 }
 
+#teraflonkheader {
+    width: 60%;
+    height: auto;
+    padding-top: 20px;
+}
 
+#quote {
+    font: 12px "lucida sans unicode";
+    font-style: italic;
+    text-align: center;
+}
 
-ol{
+#Linkbody {
+   align-items: center;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    
+}
+
+#choicebar{
     display: inline-block;
     list-style:none;
     border-left:2px solid;
@@ -55,24 +69,7 @@ ol li{
     margin: 15px
 }
 
-#teraflonkheader {
-    width: 60%;
-    height: auto;
-    padding-top: 20px;
-}
 
-#terakitty {
-    width: auto;
-    height: 75px;
-    padding-top: 60px;
-    padding-bottom: 0px;
-}
-
-#quote {
-    font: 12px "lucida sans unicode";
-    font-style: italic;
-    padding-bottom: 40px;
-}
 
 #updatebox {
     height: 100px;
