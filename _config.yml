@@ -1,0 +1,10 @@
+#Jekyll Configuration
+name: teraflonk.github.io
+description: It's a teraflonk!
+markdown: kramdown
+
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
