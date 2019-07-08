@@ -1,5 +1,4 @@
 # so-so
-
 ## 8th july 2019
 
 I suppose I’m long overdue an update. Unfortunately it’s not the update I was hoping to write. To be completely honest, these past two months have been hell. No other way to put it.
